@@ -46,14 +46,14 @@ calculadora-partidas-rankeadas/
 
 ## 💻 Como Executar
 1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/calculadora-partidas-rankeadas.git
+
+```git clone https://github.com/seu-usuario/calculadora-partidas-rankeadas.git```
+
 2.	Entre na pasta do projeto:
-cd calculadora-partidas-rankeadas
+```cd calculadora-partidas-rankeadas```
 
 3.	Execute o arquivo com Node.js:
-node index.js
-```
+```node index.js ```
 
 ## 🧪 Exemplo de Uso
 
