@@ -66,15 +66,15 @@ Saída esperada:
 ```🦸 O Herói tem de saldo de 60 está no nível de Ouro ```
 
 ## 📚 Aprendizados
-•	Declaração e uso de funções em JavaScript
-•	Manipulação de parâmetros e retorno de valores
-•	Estruturas condicionais (if, else if, else)
-•	Organização da lógica em funções separadas
-•	Uso de template strings para mensagens dinâmicas no console
+•	Declaração e uso de funções em JavaScript  
+•	Manipulação de parâmetros e retorno de valores  
+•	Estruturas condicionais (if, else if, else)  
+•	Organização da lógica em funções separadas  
+•	Uso de template strings para mensagens dinâmicas no console  
 
 ## 🔗 Links
-•	Meu Perfil no GitHub
-•	Meu Perfil na DIO
+•	Meu Perfil no GitHub  
+•	Meu Perfil na DIO  
 
 ⸻
 
