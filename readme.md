@@ -19,11 +19,11 @@ Este projeto faz parte do meu portfólio de estudos em *JavaScript* e reforça c
 ---
 
 ## 📂 Estrutura do Projeto
-	```calculadora-partidas-rankeadas/
+	calculadora-partidas-rankeadas/
 		│
 		├── index.js       # Código principal
 		└── README.md      # Documentação do projeto
-	```
+	
 ---
 
 ## ⚙️ Funcionalidades
